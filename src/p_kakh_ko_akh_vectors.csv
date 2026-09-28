@@ -1,0 +1,5 @@
+Isolate_ID,Compound_Matrix,Target_Ocular_Layer,Relative_Permittivity_245GHz,Conductivity_Sm_245GHz,Max_Field_Length_Å,Net_Dipole_Debyes,Quaternary_Digit,Dissociation_Rate_pct_sec,Primary_Synaptic_Lock,Biophysical_Role
+CURC-ENOL-001,Curcumin_Enol_Tautomer,Cornea_Mucosa,39.64,3.04,11.24,3.84,Base-3,14.25,NF-kB_PI3K_AKT,Topical_antioxidant_matrix_halting_pro_inflammatory_leukocoria_progression
+DIOS-FENU-002,Diosgenin_Fenugreek,Eye_Lens_Core,44.70,1.75,14.15,2.10,Base-3,8.42,VSMC_Phenotype,Modulates_osteogenic_phenotype_transformations_to_reverse_crystalline_opacification
+LYSO-SALV-003,Salivary_Lysozyme,Retina_Choroid,48.90,1.81,Varied,4.82,Base-2,62.50,Peptidoglycan_Matrix,Enzymatic_bio_activation_cleaving_bacterial_cell_walls_and_boosting_bioavailability
+CA-DISS-004,Soluble_Calcium_Citrate,Blood_CRAO_Pipeline,58.30,2.54,7.12,3.88,Base-2,88.40,Ca2_Coordination,Dissociates_mineralized_hydroxyapatite_deposits_to_clear_central_retinal_arteries
